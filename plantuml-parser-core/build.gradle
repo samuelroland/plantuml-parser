@@ -13,7 +13,7 @@ repositories {
 }
 
 dependencies {
-    api "com.github.javaparser:javaparser-core:3.25.3"
+    api "com.github.javaparser:javaparser-core:3.27.1"
 
     api "commons-io:commons-io:2.8.0"
     api "org.jetbrains.kotlin:kotlin-compiler"
